@@ -1,0 +1,1 @@
+Dhaka's weather forecast for October 2023 includes average high temperatures ranging from 87°F to 90°F and average lows in the night moving from mid 70s°F to low 80s°F. There are around 7 expected days of precipitation. As of now, there are no severe weather warnings. Daily weather conditions mostly reflect sunny and humid weather with some cloudy days.
