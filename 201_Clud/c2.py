@@ -123,8 +123,10 @@ emergency_task = Task(
 
 # Create the crew
 crew = Crew(
-    agents=[weather_agent, safety_agent, tour_planner, medical_advisor, emergency_locator],
-    tasks=[weather_task, safety_task, planning_task, medical_task, emergency_task]
+    agents=[weather_agent, safety_agent, tour_planner,
+            medical_advisor, emergency_locator],
+    tasks=[weather_task, safety_task,
+           planning_task, medical_task, emergency_task]
 )
 
 # Take user input for the location
