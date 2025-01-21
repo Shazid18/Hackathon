@@ -1,1 +1,0 @@
-The weather in Dhaka is predicted to be mostly sunny with temperatures ranging from 75°F to 88°F over the next several days. There is no significant precipitation expected, and there are currently no weather warnings for the area. For more detailed day-by-day forecasts, please refer to the provided weather links.
